@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603308211 source:/home/santiago/Programas/salsalapikina/main.cpp
+	<iostream>
+	<algorithm>
+
